@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Jasper Ian 
+- 👋 Hi, I’m Jasper
 - 👀 I’m interested in Web Developing
-- 📫 How to reach me jasperiantalinio@gmail.com
+- 📫 jasperian.dev@gmail.com
